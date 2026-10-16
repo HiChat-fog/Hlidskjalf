@@ -1,8 +1,11 @@
 # Hliðskjálf
 
 > Þar er staðr sá, er Hliðskjálf heitir,
+> 
 > ok þá er Óðinn settist þar í hásæti,
+> 
 > sá hann um alla heima.
+> 
 > — Gylfaginning, Prose Edda
 
 *Sagði hitt, es hugði, Hliðskjalfar gramr sjǫlfum hlífar styggr, þars hǫggnir Háreks liðar vǫ́ru.*
